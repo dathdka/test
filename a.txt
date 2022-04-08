@@ -4,10 +4,7 @@ aaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbb
 aaaaaaaaaaaaaaabb
 aaa
 ccccccccccccc
-<<<<<<< HEAD
 aaaaaaaaaaaaaaaccccccccccccccccccccccc
 ccccccccccccccccccc
-=======
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaccccccccccccccccc
->>>>>>> 557d5901df65f86a86e2c86f7347fc394620979d
